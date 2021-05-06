@@ -14,8 +14,8 @@ We meet people at schools.
 We meet people at work. 
 We meet people at parties.
 
->The majority of the people becomes our acquaintances. 
->We say hello to them when we occasionally bump into each other. 
+>The majority of the people becomes our acquaintances./ 
+>We say hello to them when we occasionally bump into each other./
 >But how much do we actually know about them?
 
 ###Problem Space
@@ -56,8 +56,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## About Us
 
 <pre>Hanzheng Zhang            Anderson Liu                Yutian Lei                Junyi Huang
-Developer                 Developer                   Designer                   Designer</pre>
+Developer                 Developer                   Designer                  Designer</pre>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Status
+This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. ![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)
+_Here we would like to give our sincere thanks to all the wonderful school faculties, friends, and classmates who offer their great helps to our project!_
