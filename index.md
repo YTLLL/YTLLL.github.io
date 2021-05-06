@@ -24,7 +24,8 @@ How might people and their acquaintances know more about each other so that they
 ###Our Goal
 **We are building the platform that encourage people to share and exchange their stories. And these stories has the power to turn an acquaintances into friends, to form bonds, to discover each other.
 
-![image](https://user-images.githubusercontent.com/46210430/117235876-698a1700-addc-11eb-91d2-eda6a9993c54.png)
+StoryBond provides a place for you to express your feelings, and you can better understand your acquaintances through the story exchanging. Your feelings and stories can be a song or an ideal in life, but no matter how it is expressed, StoryBond provides a way that helps to know others and be understood, come make true friends and read stories when you feel lonely!
+
 **
 
 ### Markdown
