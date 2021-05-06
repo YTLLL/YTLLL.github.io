@@ -8,7 +8,7 @@ _Everyone is a book filled with their own life stories._
 
 ![Image of StoryBond](https://github.com/YTLLL/YTLLL.github.io/blob/56972a69e3314bf856568d915a56ea896daca98a/image1.png)
 
-## Our Challenges and Missions
+## Project INFO: Our Challenges and Missions
 We meet a lot of people every day. 
 We meet people at schools. 
 We meet people at work. 
@@ -18,7 +18,11 @@ We meet people at parties.
 >We say hello to them when we occasionally bump into each other. 
 >But how much do we actually know about them?
 
-**We are building a place to share these stories. And these stories has the power to turn an acquaintances into friends.**
+###Problem Space
+How might people and their acquaintances know more about each other so that they can form genuine friendships?
+
+###Our Goal
+**Building a platform to share these stories. And these stories has the power to turn an acquaintances into friends.**
 
 ### Markdown
 
@@ -39,9 +43,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
+## Key Features
+![Image](https://github.com/YTLLL/YTLLL.github.io/blob/0504245cd7c9f37945304b4cdb01e2bf85c79128/image2.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
