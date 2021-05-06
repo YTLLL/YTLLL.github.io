@@ -59,5 +59,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Developer                 Developer                   Designer                  Designer</pre>
 
 ### Project Status
-This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. ![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)
+![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)
+This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. 
 _Here we would like to give our sincere thanks to all the wonderful school faculties, friends, and classmates who offer their great helps to our project!_
