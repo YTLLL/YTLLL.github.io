@@ -40,10 +40,10 @@ StoryBond provides a place for you to express your feelings, and you can better 
 <pre>Hanzheng Zhang          Anderson Liu             Yutian Lei             Junyi Huang
 Developer                Developer                 Designer               Designer</pre>
 
-### Download Our App!
+## Download Our App!
 ![Image of appstore](/appstore.png){:height="25%" width="25%"}
 
-### Project Status
+## Project Status
 ![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)<br/> 
 This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. <br/> 
 _Here we would like to give our sincere thanks to all the wonderful school faculties, friends, and classmates who offer their great helps to our project!_
