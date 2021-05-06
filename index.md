@@ -13,7 +13,9 @@ We meet people at schools.
 We meet people at work. 
 We meet people at parties.
 
-**The majority of the people becomes our acquaintances. We say hello to them when we occasionally bump into each other. But how much do we actually know about them? **
+>The majority of the people becomes our acquaintances. 
+>We say hello to them when we occasionally bump into each other. 
+>But how much do we actually know about them?
 
 **We are building a place to share these stories. And these stories has the power to turn an acquaintances into friends.**
 
