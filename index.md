@@ -55,8 +55,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## About Us
 
-<pre>Hanzheng Zhang            Anderson Liu                Yutian Lei                Junyi Huang\
-      Developer                 Developer                   Designer                   Designer</pre>
+<pre>Hanzheng Zhang            Anderson Liu                Yutian Lei                Junyi Huang
+   Developer                 Developer                   Designer                   Designer</pre>
 
 ### Support or Contact
 
