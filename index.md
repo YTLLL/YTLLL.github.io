@@ -41,7 +41,7 @@ StoryBond provides a place for you to express your feelings, and you can better 
 Developer                Developer                 Designer               Designer</pre>
 
 ### Download Our App!
-![Image of appstore](/appstore.png)
+![Image of appstore](/appstore.png){:height="10%" width="10%"}
 
 ### Project Status
 ![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)<br/> 
