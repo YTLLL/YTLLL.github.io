@@ -35,8 +35,8 @@ StoryBond provides a place for you to express your feelings, and you can better 
 
 ## About Us
 
-<pre>Hanzheng Zhang            Anderson Liu                Yutian Lei                Junyi Huang
-Developer                 Developer                   Designer                  Designer</pre>
+<pre>Hanzheng Zhang          Anderson Liu             Yutian Lei             Junyi Huang
+Developer                Developer                 Designer               Designer</pre>
 
 ### Project Status
 ![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)<br/> 
