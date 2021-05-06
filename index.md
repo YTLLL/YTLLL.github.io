@@ -1,3 +1,6 @@
+---
+youtubeId:9ULLDaruZhE
+---
 # Welcome to Project StoryBond
 
 _Everyone is a book filled with their own life stories._
@@ -30,6 +33,7 @@ StoryBond provides a place for you to express your feelings, and you can better 
 ![Image](/image2.png)
 
 ## Presentation Video
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## About Us
 
