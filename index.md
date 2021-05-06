@@ -15,11 +15,11 @@ We meet people at parties.
 >We say hello to them when we occasionally bump into each other.<br/> 
 >But how much do we actually know about them?
 
-###Problem Space
+### Problem Space
 
 How might people and their acquaintances know more about each other so that they can form genuine friendships?
 
-###Our Goal
+### Our Goal
 
 **We are building the platform that encourage people to share and exchange their stories. And these stories has the power to turn an acquaintances into friends, to form bonds, to discover each other.
 
