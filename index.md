@@ -1,8 +1,12 @@
-## Welcome to Project StoryBond
+# Welcome to Project StoryBond
 
 You can use the [editor on GitHub](https://github.com/YTLLL/YTLLL.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+_Everyone is a book filled with their own life stories._
+
+
 
 ### Markdown
 
