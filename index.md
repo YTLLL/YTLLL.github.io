@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 _Everyone is a book filled with their own life stories._
 
-![Image of StoryBond](https://github.com/YTLLL/YTLLL.github.io/blob/main/image1.png)
+![Image of StoryBond](/image1.png)
 
 ## Project INFO: Our Challenges and Missions
 We meet a lot of people every day. 
