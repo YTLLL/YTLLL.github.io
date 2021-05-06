@@ -22,7 +22,10 @@ We meet people at parties.
 How might people and their acquaintances know more about each other so that they can form genuine friendships?
 
 ###Our Goal
-**Building a platform to share these stories. And these stories has the power to turn an acquaintances into friends.**
+**We are building the platform that encourage people to share and exchange their stories. And these stories has the power to turn an acquaintances into friends, to form bonds, to discover each other.
+
+![image](https://user-images.githubusercontent.com/46210430/117235876-698a1700-addc-11eb-91d2-eda6a9993c54.png)
+**
 
 ### Markdown
 
@@ -46,7 +49,7 @@ Syntax highlighted code block
 ```
 
 ## Key Features
-![Image](https://github.com/YTLLL/YTLLL.github.io/blob/0504245cd7c9f37945304b4cdb01e2bf85c79128/image2.png)
+![Image](/image2.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
