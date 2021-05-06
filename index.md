@@ -14,8 +14,8 @@ We meet people at schools.
 We meet people at work. 
 We meet people at parties.
 
->The majority of the people becomes our acquaintances./ 
->We say hello to them when we occasionally bump into each other./
+>The majority of the people becomes our acquaintances.<br/> 
+>We say hello to them when we occasionally bump into each other.<br/> 
 >But how much do we actually know about them?
 
 ###Problem Space
@@ -26,28 +26,6 @@ How might people and their acquaintances know more about each other so that they
 
 StoryBond provides a place for you to express your feelings, and you can better understand your acquaintances through the story exchanging. Your feelings and stories can be a song or an ideal in life, but no matter how it is expressed, StoryBond provides a way that helps to know others and be understood, come make true friends and read stories when you feel lonely!
 
-**
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
 
 ## Key Features
 ![Image](/image2.png)
@@ -59,6 +37,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Developer                 Developer                   Designer                  Designer</pre>
 
 ### Project Status
-![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)
-This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. 
+![Image of StoryBond](/iSchoolPrimary_RGB_Purple.png)<br/> 
+This is Capstone project developed by team FistBump from University of Washington Information School for Winter/Spring 2021. <br/> 
 _Here we would like to give our sincere thanks to all the wonderful school faculties, friends, and classmates who offer their great helps to our project!_
