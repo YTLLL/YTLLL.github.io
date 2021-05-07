@@ -29,7 +29,7 @@ How might people and their acquaintances know more about each other so that they
 StoryBond provides a place for you to express your feelings, and you can better understand your acquaintances through the story exchanging. Your feelings and stories can be a song or an ideal in life, but no matter how it is expressed, StoryBond provides a way that helps to know others and be understood, come make true friends and read stories when you feel lonely!
 
 ### Our GitHub Links
-> [Respository](https://github.com/junyi-1224/fistbump_native)
+> [StoryBond Respository](https://github.com/junyi-1224/fistbump_native)
 
 
 ## Key Features
